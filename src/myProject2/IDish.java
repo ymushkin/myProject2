@@ -1,3 +1,5 @@
+package myProject2;
+
 /**
  * Created by YitzchakMushkin on 11/05/2016.
  */
